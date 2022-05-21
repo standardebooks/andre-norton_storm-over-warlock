@@ -19,7 +19,6 @@
 		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
-		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">longDescription</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
@@ -42,7 +41,9 @@
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">On a planet presumed devoid of intelligent life, and in a race to colonize worlds ahead of brutal beetle-like aliens, two surveyors take flight from their hunters and try to uncover the secrets of a place that seems ever less benign.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">A brutal force of insectoid aliens called Throgs effortlessly destroy a Terran survey camp on Warlock, a planet seemingly devoid of intelligent life that both Throgs and Terrans hope to colonize. Two who survive the enemy’s attack must go on the run, weaponless and with only a pair of wolverines as their companions. The survivors are driven to an unknown destination by dreams so powerful that they may be visions. And as they get closer to their goal–over brutal landscapes, across tumultuous seas, and through fog-filled caverns–the two find themselves losing control over their actions and unsure of what is real in this strange and hostile world. “Storm Over Warlock” is the first book in &lt;a href="https://standardebooks.org/ebooks/andre-norton"&gt;Andre Norton’s&lt;/a&gt; five-volume Forerunner series.</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;A brutal force of insectoid aliens called Throgs effortlessly destroy a Terran survey camp on Warlock, a planet seemingly devoid of intelligent life that both Throgs and Terrans hope to colonize. Two Terrans who survive the enemy attack must go on the run, weaponless and with only a pair of wolverines as their companions. The survivors are driven to an unknown destination by dreams so powerful that they may be visions. And as they get closer to their goal, crossing brutal landscapes, tumultuous seas, and fog-filled caverns, the two find themselves losing control over their actions and unsure of what is real in this strange and hostile world. This is the first book in the five-volume Forerunner series by &lt;a href="https://standardebooks.org/ebooks/andre-norton"&gt;Andre Norton&lt;/a&gt;.&lt;/p&gt;
+		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20788</dc:source>
 		<dc:source>https://archive.org/details/stormoverwarlock0000nort/</dc:source>
