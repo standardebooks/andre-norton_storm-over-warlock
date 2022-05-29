@@ -52,11 +52,11 @@
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Storm_Over_Warlock</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/andre-norton_storm-over-warlock</meta>
-        <meta id="collection-1" property="belongs-to-collection">Forerunner</meta>
+		<meta id="collection-1" property="belongs-to-collection">Forerunner</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-        <dc:creator id="author">Andre Norton</dc:creator>
-        <meta property="se:name.person.full-name" refines="#author">Andre Alice Norton</meta>
+		<dc:creator id="author">Andre Norton</dc:creator>
+		<meta property="se:name.person.full-name" refines="#author">Andre Alice Norton</meta>
 		<meta property="file-as" refines="#author">Norton, Andre</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Andre_Norton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80126299</meta>
