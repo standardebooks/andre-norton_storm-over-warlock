@@ -43,7 +43,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Forerunner</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>On a planet presumed devoid of intelligent life, and in a race to colonize worlds ahead of brutal beetle-like aliens, two surveyors take flight from their hunters and try to uncover the secrets of a place that seems ever less benign.</dc:abstract>
+		<meta property="schema:abstract">On a planet presumed devoid of intelligent life, and in a race to colonize worlds ahead of brutal beetle-like aliens, two surveyors take flight from their hunters and try to uncover the secrets of a place that seems ever less benign.</meta>
 		<dc:description>
 			&lt;p&gt;A brutal force of insectoid aliens called Throgs effortlessly destroy a Terran survey camp on Warlock, a planet seemingly devoid of intelligent life that both Throgs and Terrans hope to colonize. Two Terrans who survive the enemy attack must go on the run, weaponless and with only a pair of wolverines as their companions. These survivors are driven to an unknown destination by dreams so powerful that they may be visions; but as they get closer to their goal, crossing brutal landscapes, tumultuous seas, and fog-filled caverns, the two find themselves losing control over their actions and unsure of what is real in this strange and hostile world.&lt;/p&gt;
 		</dc:description>
